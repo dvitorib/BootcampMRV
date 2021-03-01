@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Program.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DIO.Series.Domain\DIO.Series.Domain.csproj" />
+    <ProjectReference Include="..\DIO.Series.Interfaces\DIO.Series.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>

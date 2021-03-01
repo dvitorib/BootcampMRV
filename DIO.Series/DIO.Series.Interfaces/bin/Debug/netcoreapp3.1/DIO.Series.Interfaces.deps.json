@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DIO.Series.Interfaces/1.0.0": {
+        "dependencies": {
+          "DIO.Series.Domain": "1.0.0"
+        },
+        "runtime": {
+          "DIO.Series.Interfaces.dll": {}
+        }
+      },
+      "DIO.Series.Domain/1.0.0": {
+        "runtime": {
+          "DIO.Series.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DIO.Series.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DIO.Series.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

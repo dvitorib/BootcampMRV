@@ -1,0 +1,9 @@
+C:\Users\debor\source\repos\DIO.Series\DIO.Series.Domain\bin\Debug\netcoreapp3.1\DIO.Series.Domain.deps.json
+C:\Users\debor\source\repos\DIO.Series\DIO.Series.Domain\bin\Debug\netcoreapp3.1\DIO.Series.Domain.dll
+C:\Users\debor\source\repos\DIO.Series\DIO.Series.Domain\bin\Debug\netcoreapp3.1\DIO.Series.Domain.pdb
+C:\Users\debor\source\repos\DIO.Series\DIO.Series.Domain\obj\Debug\netcoreapp3.1\DIO.Series.Domain.AssemblyInfoInputs.cache
+C:\Users\debor\source\repos\DIO.Series\DIO.Series.Domain\obj\Debug\netcoreapp3.1\DIO.Series.Domain.AssemblyInfo.cs
+C:\Users\debor\source\repos\DIO.Series\DIO.Series.Domain\obj\Debug\netcoreapp3.1\DIO.Series.Domain.csproj.CoreCompileInputs.cache
+C:\Users\debor\source\repos\DIO.Series\DIO.Series.Domain\obj\Debug\netcoreapp3.1\DIO.Series.Domain.dll
+C:\Users\debor\source\repos\DIO.Series\DIO.Series.Domain\obj\Debug\netcoreapp3.1\DIO.Series.Domain.pdb
+C:\Users\debor\source\repos\DIO.Series\DIO.Series.Domain\obj\Debug\netcoreapp3.1\DIO.Series.Domain.csprojAssemblyReference.cache
