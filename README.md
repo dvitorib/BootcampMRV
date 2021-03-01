@@ -1,2 +1,2 @@
 # BootcampMRV
-Aplicação simples de cadastro de séries em .NET
+DIO.Series = Aplicação simples de cadastro de séries em .NET
